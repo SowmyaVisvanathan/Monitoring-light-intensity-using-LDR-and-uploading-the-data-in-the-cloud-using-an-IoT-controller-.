@@ -260,4 +260,4 @@ ldr_value:1dr1
 
 # RESULT:
 
-Thus the light intensity valve is uploaded in the Things mate using Arduino controller.
+Thus the light intensity value is uploaded in the Things mate using Arduino controller.

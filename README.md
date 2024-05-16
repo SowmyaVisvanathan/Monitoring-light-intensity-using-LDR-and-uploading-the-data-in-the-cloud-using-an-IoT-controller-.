@@ -1,4 +1,7 @@
-# Monitoring-light-intensity-using-LDR-and-uploading-the-data-in-the-cloud-using-an-IoT-controller-.
+### NAME : Sowmya V
+### REG NO : 212222110045
+
+# EXPERIMENT 4 Monitoring light intensity using LDR and uploading the data in the cloud using an IoT controller
 
 # AIM:
 To monitor and upload the light intensity value in the Things mate using Arduino controller.
